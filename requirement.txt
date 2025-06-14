@@ -4,3 +4,5 @@ scikit-learn
 seaborn 
 streamlit
 nltk
+wordcloud
+nltk
